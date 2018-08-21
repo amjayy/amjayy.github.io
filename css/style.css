@@ -1,0 +1,117 @@
+.nav_bar{
+    background-color:    #3B3633;
+    height:50px;
+}
+.nav_bar li{
+    list-style: none;
+    display: inline;
+    margin: 10px;
+}
+.nav_bar a{
+    color: white;
+}
+.about_me{
+    background-color: #8FBBA2;
+    padding-bottom: 100px;
+}
+h1,h2,h3{
+    font-family: 'Candal';
+    color: white;
+
+}
+.img-me{
+    border-radius: 50%;
+    
+}
+.social_media_footer{
+    background-color: #8FBBA2;
+}
+.experience{
+    background-color: #F5F5F5;
+    color: black;
+}
+
+.fb-btn{
+    border-radius: 50%;
+    border: 1px solid black;
+
+}
+.google-btn{
+    border-radius: 50%;
+    border: 1px solid black; 
+}
+.linkin-btn{
+    border-radius: 50%;
+    border: 1px solid black; 
+}
+.github-btn{
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+body{
+font-family: 'Lato';
+color: white;   
+}
+.objective{
+    font-size: 18px;
+   
+}
+.dwnld-btn{
+background-color: #8FBBA2;
+position: relative;
+    top: 50px;
+    left: 400px;
+}
+.hero{
+    background-image: url("../images/hero.jpg");
+    width:100%;
+    height:auto;
+    background-size: cover;
+}
+.projects{
+    color:black;
+}
+.project_heading_1{
+    color:black;
+}
+.project_heading_2{
+    color:black;
+}
+.project_heading_3{
+    color:black;
+}
+.project_headline{
+    color: black;
+    font-family: 'Candal';
+}
+.contact{
+    background-image:url("../images/jacksonms.jpg");
+    height:auto;
+    
+}
+.address-btn{
+border-radius: 50%;
+border:1px solid black;
+}
+.email-btn{
+border-radius: 50%;
+border: 1px solid black;
+}
+.phone-btn{
+border-radius: 50%;
+border:1px solid black;
+}
+.contact li{
+    list-style-type: none;
+    text-align: center;
+    
+}
+.contact_heading{
+    text-align: center;
+    font-family: 'Lato';
+
+}
+.goal{
+    font-size: 20px;
+}
