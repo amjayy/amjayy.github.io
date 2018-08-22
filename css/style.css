@@ -70,6 +70,7 @@ position: relative;
 }
 .projects{
     color:black;
+    padding: 100px;
 }
 .project_heading_1{
     color:black;
@@ -85,7 +86,7 @@ position: relative;
     font-family: 'Candal';
 }
 .contact{
-    background-image:url("../images/jacksonms.jpg");
+    background-image:url("../images/jackson2.jpg");
     height:auto;
     
 }
@@ -116,4 +117,13 @@ border:1px solid black;
 .nav_bar ul{
     position: relative;
     top:10px;
+}
+.python{
+    margin: 30px;
+}
+.tv{
+    margin: 30px;
+}
+.pooh{
+    margin: 30px;
 }
