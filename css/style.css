@@ -60,8 +60,7 @@ color: white;
 .dwnld-btn{
 background-color: #8FBBA2;
 position: relative;
-    top: 50px;
-    left: 400px;
+    
 }
 .hero{
     background-image: url("../images/hero.jpg");
@@ -104,8 +103,7 @@ border:1px solid black;
 }
 .contact li{
     list-style-type: none;
-    text-align: center;
-    
+        display: block;
 }
 .contact_heading{
     text-align: center;
@@ -114,4 +112,8 @@ border:1px solid black;
 }
 .goal{
     font-size: 20px;
+}
+.nav_bar ul{
+    position: relative;
+    top:10px;
 }
