@@ -127,3 +127,14 @@ border:1px solid black;
 .pooh{
     margin: 30px;
 }
+@media (min:width 768px){
+    .hero-graphic{
+        max-height:400px;
+    }
+}
+@media screen and (max-width:716px){
+
+    .nav_bar{
+        background: blueviolet;
+    }
+}
