@@ -19,8 +19,10 @@ h1,h2,h3{
     color: white;
 
 }
-.img-me3{
-    border-radius: 50%;
+.me-3{
+    width:50%;
+    height:50%;
+    padding: 30px;
     
 }
 .social_media_footer{
@@ -31,22 +33,15 @@ h1,h2,h3{
     color: black;
 }
 
-.fb-btn{
+.btn{
     border-radius: 50%;
     border: 1px solid black;
-
 }
-.google-btn{
-    border-radius: 50%;
-    border: 1px solid black; 
-}
-.linkin-btn{
-    border-radius: 50%;
-    border: 1px solid black; 
-}
-.github-btn{
-    border-radius: 50%;
-    border: 1px solid black;
+.src-btn{
+    border-radius: 10%;
+    padding: 10px 10px 10px 10px;
+    background-color: #8FBBA2;
+    
 }
 
 body{
@@ -60,8 +55,13 @@ color: white;
 .dwnld-btn{
 background-color: #8FBBA2;
 position: relative;
+border-radius:5%;
+padding:15px 15px 15px 15px;
     
 }
+.dwnld-btn a:hover {
+    color: purple;
+  }
 .hero{
     background-image: url("../images/hero.jpg");
     width:100%;
@@ -92,18 +92,7 @@ position: relative;
     height:auto;
     
 }
-.address-btn{
-border-radius: 50%;
-border:1px solid black;
-}
-.email-btn{
-border-radius: 50%;
-border: 1px solid black;
-}
-.phone-btn{
-border-radius: 50%;
-border:1px solid black;
-}
+
 .contact li{
     list-style-type: none;
         display: block;
@@ -139,4 +128,7 @@ border:1px solid black;
     .nav_bar{
         background: blueviolet;
     }
+}
+.col-sm-5{
+    margin: 10px 10px 10px 10px;
 }
